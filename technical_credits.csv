@@ -1,177 +1,177 @@
 	Person	Movies_Contribution	Roles	Franchise_Box_Office	Career_Box_Office	Career/Franchise
-0	Kevin Feige	38	Producer 	28696064189	33609290930	0.854
-1	Louis Da Esposita	30	Executive Producer 	28430490330	29208728610	0.973
-2	Victoria Alonso	30	Executive Producer 	28430490330	28431362496	1
-4	Stan Lee	27	Executive Producer 	26559804240	38890586167	0.683
-7	Dave Jordan	22	Music Supervisor 	21605425997	25206938100	0.857
-8	Sarah Halley Finn	22	Casting Director 	22698036431	29730556710	0.763
-9	Steve Durkee	17	Supervising Music Editor 	18980129505	20600590910	0.921
-11	Mitch Bell	14	Co-Producer 	15284092026	15284092026	1
-13	Jack Kirby	11	Story Creator 	11370556970	12238202090	0.929
-15	Shannon Mills	11	Supervising Sound Editor 	11570813496	25941478134	0.446
-18	Alan Fine	9	Executive Producer 	6700507283	6700507283	1
-19	Jeffrey Ford	9	Editor 	13115820467	13567717504	0.967
-20	Jacob Riehle	9	Dialogue Editor 	9880117467	21246278222	0.465
-23	Juan Peralta	9	Re-recording Mixer 	10022824561	12486303229	0.803
-24	Steve Orlando	9	Sound Effects Editor 	9639598703	16908663553	0.57
-27	Nashia Wachsman	9	Music Editor 	11757517815	11901015093	0.988
-28	Robin Buday	9	Assistant Editor 	13421593865	13432366872	0.999
-29	Charles Wood	8	Production Designer 	9662212690	10942533777	0.883
-30	David J. Grant	8	Co-Producer 	7666825384	8820870774	0.869
-33	Josh Gold	8	Sound Effects Editor 	9764589395	17892960955	0.546
-34	Nia Hansen	8	Sound Designer 	9065029143	12493368507	0.726
-37	Dan Sudick	8	Special Effects Supervisor 	10261103840	12077896998	0.85
-41	Dan Lebental	7	Editor 	5003312374	6506347219	0.769
-42	Daniel Laurie	7	Supervising Sound Editor 	8755077385	11461596929	0.764
-43	Tom Johnson	7	Re-recording Mixer 	8527739267	22439859715	0.38
-44	Lars P. Winther	7	Assistant Director 	7114316464	8186668230	0.869
-47	Brad Semenoff	7	Dialogue/ADR Editor 	8807839584	15715866213	0.56
-48	Christopher Markus	6	Screenwriter 	7724565276	9364448204	0.825
-50	Stephen McFeely	6	Screenwriter 	7724565276	9364448204	0.825
-52	Jon Favreau	6	Executive Producer 	8660128696	11945650659	0.725
-54	Patricia Whitcher	6	Executive Producer 	6519490779	8356429873	0.78
-56	Michael Giacchino	6	Composer 	5357698313	21869961880	0.245
-58	Samson Neslund	6	Sound Effects Editor 	7235985258	8728501736	0.829
-60	Lora Hirschberg	6	Re-recording Mixer 	5093580706	14519072678	0.351
-61	James Gunn	5	Director 	6483061867	7016119373	0.924
-64	David Maisel	5	Executive Producer 	2291798189	2796341718	0.82
-65	Nate Moore	5	Executive Producer 	4458583167	4458583167	1
-68	Jeremy Latcham	5	Executive Producer 	5180727265	5211906207	0.994
-70	Stephen Broussard	5	Executive Producer 	2976127024	2976127024	1
-74	Larry Lieber	5	Story Creator 	3039727295	3039727295	1
-75	Ben Davis	5	Director of Photography 	4373850401	5977208132	0.732
-76	Judianna Makovsky	5	Costume Designer 	7578480947	11337633977	0.668
-77	Matthew Schmidt	5	Editor 	7135670307	7135670307	1
-78	Dan DeLeeuw	5	Visual Effects Supervisor 	7157640927	7454460601	0.96
-80	Christopher Townsend	5	Visual Effects Supervisor 	4979943084	5285333913	0.942
-81	Janek Sirrs	5	Visual Effects Supervisor 	5615906087	6992447789	0.803
-82	Jamie Christopher	5	First Assistant Director 	4211274819	16177210205	0.26
-85	Lauri Gaffin	5	Set Decorator 	3461573822	5362961203	0.645
-86	Christopher Boyes	5	Sound Designer 	4621886636	37980077732	0.122
-89	Chris Castaldi	5	First Assistant Director 	7201319031	15560012765	0.463
-90	Paul Corbould	5	Special Effects Supervisor 	2910645804	5284394403	0.551
-92	Anthony Russo	4	Director 	6709392984	6994048790	0.959
-93	Joe Russo	4	Director 	6709392984	6994048790	0.959
-94	Chris McKenna	4	Screenwriter 	4543571718	5846780970	0.777
-95	Erik Sommers	4	Screenwriter 	4543571718	5815767621	0.781
-96	Brad Winderbaum	4	Executive Producer 	2510020439	2510020439	1
-99	Michael Grillo	4	Executive Producer 	6076351847	7142736113	0.851
-100	Avi Arad	4	Executive Producer 	3892901173	13400934402	0.29
-102	Steve Ditko	4	Story based on the Marvel Comic Book by 	4872652044	8850802809	0.551
-103	Jonathan Schwartz	4	Executive Producer 	3201771086	3596446484	0.89
-106	Charles Newirth	4	Executive Producer 	2947104740	4738188816	0.622
-107	Trent Opaloch	4	Director of Photography 	6709392984	7313040562	0.917
-108	Geoffrey Baumann	4	Visual Effects Supervisor-Additional Visual Effects Supervisor 	3965618043	3965618043	1
-109	Alan Silvestri	4	Composer 	6728761496	18856246232	0.357
-110	Alexandra Byrne	4	Costume Designer 	3291869166	4334279922	0.759
-111	Jake Morrison	4	Visual Effects Supervisor 	2774871824	3097952013	0.896
-114	Brian Stultz	4	Art Director 	7968532026	11682233296	0.682
-115	John Mahaffie	4	Second Unit Director 	4073878155	8481774172	0.48
-116	Igor Meglic	4	Second Unit Camera 	3803616963	12762189816	0.298
-117	Kelly Port	4	Visual Effects Supervisor 	7202466372	10998655611	0.655
-118	Jeff Habberstad	4	Stunt Coordinator 	3234396591	9994276376	0.324
-121	Randi Hiller	4	Casting Director 	3170754765	5176910355	0.612
-122	Andy Gill	4	Stunt Coordinator-Second Unit 	3825940455	12274406314	0.312
-123	Peyton Reed	3	Director 	1590251052	2147879834	0.74
-124	Eric Pearson	3	Screenwriter 	1230233909	1698277761	0.724
-125	Jon Watts	3	Director 	3920427058	3922952677	0.999
-127	Amy Pascal	3	Producer 	3920427058	6369415927	0.616
-128	Nigel Gostelow	3	Executive Producer 	1394923423	2282279274	0.611
-129	Craig Kyle	3	Co-Producer 	1944411912	1944411912	1
-132	Craig Wood	3	Editor 	2041702117	6938858957	0.294
-133	Don Heck	3	Story Creator 	1586079067	1586079067	1
-135	Leigh Folsom-Boyd	3	Editor 	3421906898	6085108661	0.562
-136	Christophe Beck	3	Composer 	1590251052	11876838218	0.134
-137	Trinh Tran	3	Executive Producer 	5994991095	5994991095	1
-139	Peter J. Devlin	3	Sound Mixer 	3001213210	9432876133	0.318
-140	Frank Eulner	3	Supervising Sound Editor 	2721428147	9087212019	0.299
-141	Ernie Avila	3	Set Designer 	2335904030	8421498566	0.277
-143	Russell Earl	3	ILM Visual Effects Supervisor 	5557493398	5815466143	0.956
-145	Bria Kinter	3	Set Designer 	5712179472	10016991486	0.57
-146	Diana Giorgiutti	3	Visual Effects Producer 	1612787583	1827868393	0.882
-147	Jonathan Taylor	3	Second Unit Director 	1762608560	7743342043	0.228
-148	Richard Mays	3	Set Designer 	2429149530	8388766100	0.29
-150	Thomas Robinson Harper	3	Stunt Coordinator 	2106440673	4209970786	0.5
-151	Richard Roberts	3	Set Decorator 	2614447317	13659751742	0.191
-152	Taika Waititi	2	Director 	1611410859	1739650089	0.926
-154	Joss Whedon	2	Director 	2910417190	3591334919	0.81
-156	Ryan Coogler	2	Director 	2190549933	2928515490	0.748
-158	Jeff Loveness	2	Screenwriter 	448247943	448247943	1
-159	Zak Penn	2	Story Creator 	1780674070	3751831765	0.475
-161	Joe Robert Cole	2	Screenwriter 	2190549933	2190549933	1
-162	Destin Daniel Cretton	2	Director 	432224634	603869799	0.716
-165	Christopher L. Yost	2	Screenwriter 	1495085294	1499648374	0.997
-166	Scott Derrickson	2	Director 	1628568160	2401754591	0.678
-170	Don Payne	2	Screenwriter 	1093929134	1444182681	0.757
-172	Jac Schaeffer	2	Screenwriter 	1509327225	1606716793	0.939
-174	Nicole Perlman	2	Screenwriter 	1900458489	2329581700	0.816
-176	Paul Rudd	2	Screenwriter 	1142003109	1260663869	0.906
-177	Eric Hauserman Carroll	2	Executive Producer 	2084332508	2084332508	1
-178	Joe Simon	2	Based on the Marvel Comic by 	1885669987	1885669987	1
-180	Brian Chapek	2	Co-Producer 	1140679212	1140679212	1
-182	Rachel OâConnor	2	Executive Producer 	3042155767	3260994153	0.933
-183	Hannah Beachler	2	Production Designer 	2190549933	2474837944	0.885
-184	Kevin De La Noy	2	Executive Producer 	849979702	5523889526	0.154
-186	Michael P. Shawver	2	Editor 	2190549933	2780984169	0.788
-187	Matt Tolmach	2	Executive Producer 	3042155767	7836832004	0.388
-188	Fred Raskin	2	Editor 	1639970358	3650855341	0.449
-189	Lisa Lassek	2	Editor 	2910417190	3772464532	0.771
-190	JoAnn Perritano	2	Unit Production Manager 	2624450134	3572548359	0.735
-192	Peter S. Elliot	2	Editor 	1976320353	3889452076	0.508
-193	Ruth E. Carter	2	Costume Designer 	2190549933	3066667464	0.714
-194	Thomas M. Hammel	2	Executive Producer 	1982590300	5044150698	0.393
-196	Ramin Djawadi	2	Composer 	986903306	3814166579	0.259
-197	Sammy Sheldon	2	Costume Designer 	967106392	3220094025	0.3
-198	Matthew Libatique	2	Cinematographer 	1206327936	4933286394	0.245
-199	Ludwig GÃ¶ransson	2	Composer 	2190549933	4673833638	0.469
-200	Danny Elfman	2	Additional Music 	2347541965	21078990594	0.111
-202	Ryan Meinerding	2	Head of Visual Development 	1828242760	1828242760	1
-203	Stephane Ceretti	2	Visual Effects Supervisor 	1447225569	1648115220	0.878
-204	Henry Jackman	2	Composer 	1866301475	11071042572	0.169
-205	Mayes C. Rubeo	2	Costume Designer 	1611410859	6013880608	0.268
-206	Tyler Bates	2	Composer 	1639970358	5671752725	0.289
-207	Debbie Berman	2	Editor 	2007847385	2007885739	1
-208	Andy Nicholson	2	Supervising Art Director 	1500145870	4701218029	0.319
-210	Louise Frogley	2	Costume Designer 	2093663563	3777832765	0.554
-211	J. Michael Riva	2	Production Designer 	1206327936	5667727340	0.213
-212	Ray Chan	2	Supervising Art Director 	1320945690	1419022145	0.931
-214	Greg Hooper	2	Art Director 	2666999797	7746313538	0.344
-215	David Klassen	2	Supervising Art Director 	1206327936	2035396204	0.593
-216	Lee Gilmore	2	Sound Effects Editor 	1492232623	18093071950	0.082
-217	Brian Tyler	2	Composer 	2610709251	12758301100	0.205
-219	Christopher Waegner	2	Visual Effects Supervisor 	2788319536	7020875805	0.397
-221	Jose Antonio Garcia	2	Sound Mixer 	2730492483	6981620719	0.391
-222	Kyle Gardiner	2	Stunt Coordinator 	1611410859	6501647560	0.248
-223	David Stephenson	2	Sound Mixer 	1015172292	2218667816	0.458
-224	Dean Clegg	2	Art Director 	818817719	2385811258	0.343
-226	Matthew Wood	2	Supervising Sound Editor 	1219130338	11389398583	0.107
-227	John Bush	2	Set Decorator 	1046912950	2379062907	0.44
-228	Guy Williams	2	Visual Effects Supervisor 	2084480235	5893201108	0.354
-229	Beat Frutiger	2	Art Director 	1592673180	5130437119	0.31
-230	Mike Stallion	2	Art Director 	1447225569	2151738479	0.673
-231	Spiro Razatos	2	Second Unit Director 	1866301475	11678445768	0.16
-233	Scott Edelstein	2	Visual Effects Supervisor 	4704780000	4704780000	1
-234	Bonnie Wild	2	Re-recording Mixer 	1577824037	2457762750	0.642
-235	Jordan Crockett	2	Art Director 	1447225569	1871697232	0.773
-236	Jason T. Clark	2	Art Director 	1805919268	1913270459	0.944
-237	Graham Churchyard	2	Costume Supervisor 	2084332508	2516274647	0.828
-239	Jann Engel	2	Art Director 	2229502100	2637475640	0.845
-241	Ben Snow	2	Visual Effects Supervisor 	1206327936	3561718964	0.339
-242	Steve Dent	2	Stunt Coordinator 	1015172292	4082753889	0.249
-243	Danielle Daly	2	Post-Production Supervisor 	1846509411	1846509411	1
-244	Sheena Duggal	2	Visual Effects Supervisor 	1859994788	6635167862	0.28
-245	Michael Gowen	2	Set Designer 	1129576094	5847281202	0.193
-247	Eric Heffron	2	Associate Producer 	1206327936	6416637181	0.188
-249	Terry Madden	2	First Assistant Director-Second Unit 	1765886755	12372469953	0.143
-250	Randall Wilkins	2	Set Designer 	1592673180	12376049100	0.129
-251	Jojo Villanueva	2	Music Coordinator 	850745406	6794598626	0.125
-252	Tony Lamberti	2	Re-recording Mixer 	3042155767	9569045439	0.318
-255	Jo Beckett	2	Script Supervisor 	1580355465	4649165441	0.34
-256	Jeanette Surga	2	Music Editor 	2610709251	8212771633	0.318
-257	Christopher T. Sadler	2	Second Assistant Director 	2488393906	4410517852	0.564
-259	Jonathan Fawkner	2	Visual Effects Supervisor 	1639970358	1639970358	1
-260	David Moreau	2	Set Designer 	1843977983	3814634684	0.483
-261	Mike Stassi	2	Set Designer 	1843977983	3683791687	0.501
-262	Julien Pougnier	2	Set Designer 	1843977983	2947976379	0.626
-263	Camille Friend	2	Hair Department Head 	1843977983	4304618696	0.428
-264	Jojo Warne	2	Location Manager 	1580355465	1580355465	1
+0	Kevin Feige	38	Producer 	28710200216	33623426957	85.4%
+1	Louis Da Esposita	30	Executive Producer 	28444626357	29222864637	97.3%
+2	Victoria Alonso	30	Executive Producer 	28444626357	28445498523	100.0%
+4	Stan Lee	27	Executive Producer 	26559804240	38890586167	68.3%
+7	Dave Jordan	22	Music Supervisor 	21619576579	25221088682	85.7%
+8	Sarah Halley Finn	22	Casting Director 	22712187013	29744707292	76.4%
+9	Steve Durkee	17	Supervising Music Editor 	18980129505	20600590910	92.1%
+11	Mitch Bell	14	Co-Producer 	15298242608	15298242608	100.0%
+13	Jack Kirby	11	Story Creator 	11370556970	12238202090	92.9%
+15	Shannon Mills	11	Supervising Sound Editor 	11570813496	25941478134	44.6%
+18	Alan Fine	9	Executive Producer 	6700507283	6700507283	100.0%
+19	Jeffrey Ford	9	Editor 	13115820467	13567717504	96.7%
+20	Jacob Riehle	9	Dialogue Editor 	9880117467	21246278222	46.5%
+23	Juan Peralta	9	Re-recording Mixer 	10022824561	12486303229	80.3%
+24	Steve Orlando	9	Sound Effects Editor 	9639598703	16908663553	57.0%
+27	Nashia Wachsman	9	Music Editor 	11757517815	11901015093	98.8%
+28	Robin Buday	9	Assistant Editor 	13421593865	13432366872	99.9%
+29	Charles Wood	8	Production Designer 	9662212690	10942533777	88.3%
+30	David J. Grant	8	Co-Producer 	7666825384	8820870774	86.9%
+33	Josh Gold	8	Sound Effects Editor 	9764589395	17892960955	54.6%
+34	Nia Hansen	8	Sound Designer 	9065029143	12493368507	72.6%
+37	Dan Sudick	8	Special Effects Supervisor 	10261103840	12077896998	85.0%
+41	Dan Lebental	7	Editor 	5003312374	6506347219	76.9%
+42	Daniel Laurie	7	Supervising Sound Editor 	8755077385	11461596929	76.4%
+43	Tom Johnson	7	Re-recording Mixer 	8527739267	22439859715	38.0%
+44	Lars P. Winther	7	Assistant Director 	7114316464	8186668230	86.9%
+47	Brad Semenoff	7	Dialogue/ADR Editor 	8807839584	15715866213	56.0%
+48	Christopher Markus	6	Screenwriter 	7724565276	9364448204	82.5%
+50	Stephen McFeely	6	Screenwriter 	7724565276	9364448204	82.5%
+52	Jon Favreau	6	Executive Producer 	8660128696	11945650659	72.5%
+54	Patricia Whitcher	6	Executive Producer 	6519490779	8356429873	78.0%
+56	Michael Giacchino	6	Composer 	5357698313	21869961880	24.5%
+58	Samson Neslund	6	Sound Effects Editor 	7235985258	8728498037	82.9%
+60	Lora Hirschberg	6	Re-recording Mixer 	5107731288	14533223260	35.1%
+61	James Gunn	5	Director 	6483061867	7016119373	92.4%
+64	David Maisel	5	Executive Producer 	2291798189	2796341718	82.0%
+65	Nate Moore	5	Executive Producer 	4458568612	4458568612	100.0%
+68	Jeremy Latcham	5	Executive Producer 	5180727265	5211906207	99.4%
+70	Stephen Broussard	5	Executive Producer 	2990277606	2990277606	100.0%
+74	Larry Lieber	5	Story Creator 	3039727295	3039727295	100.0%
+75	Ben Davis	5	Director of Photography 	4373850401	5978571017	73.2%
+76	Judianna Makovsky	5	Costume Designer 	7578480947	11337633977	66.8%
+77	Matthew Schmidt	5	Editor 	7135670307	7135670307	100.0%
+78	Dan DeLeeuw	5	Visual Effects Supervisor 	7171791509	7468611183	96.0%
+80	Christopher Townsend	5	Visual Effects Supervisor 	4979943084	5285333913	94.2%
+81	Janek Sirrs	5	Visual Effects Supervisor 	5615906087	6992447789	80.3%
+82	Jamie Christopher	5	First Assistant Director 	4225425401	16191360787	26.1%
+85	Lauri Gaffin	5	Set Decorator 	3461573822	5362961203	64.5%
+86	Christopher Boyes	5	Sound Designer 	4621886636	37989304350	12.2%
+89	Chris Castaldi	5	First Assistant Director 	7201319031	15560012765	46.3%
+90	Paul Corbould	5	Special Effects Supervisor 	2924796386	5292876170	55.3%
+92	Anthony Russo	4	Director 	6709392984	6996426036	95.9%
+93	Joe Russo	4	Director 	6709392984	6996426036	95.9%
+94	Chris McKenna	4	Screenwriter 	4543571718	5846780970	77.7%
+95	Erik Sommers	4	Screenwriter 	4543571718	5815767621	78.1%
+96	Michael Grillo	4	Executive Producer 	6076351847	7142736113	85.1%
+97	Brad Winderbaum	4	Executive Producer 	2510020439	2510020439	100.0%
+100	Avi Arad	4	Executive Producer 	3892901173	13400934402	29.0%
+102	Steve Ditko	4	Story based on the Marvel Comic Book by 	4872652044	8850802809	55.1%
+103	Jonathan Schwartz	4	Executive Producer 	3201771086	3596446484	89.0%
+106	Charles Newirth	4	Executive Producer 	2947104740	4738188816	62.2%
+107	Trent Opaloch	4	Director of Photography 	6709392984	7313040562	91.7%
+108	Geoffrey Baumann	4	Visual Effects Supervisor-Additional Visual Effects Supervisor 	3965603488	3965603488	100.0%
+109	Alan Silvestri	4	Composer 	6728761496	18856246232	35.7%
+110	Alexandra Byrne	4	Costume Designer 	3291869166	4335008711	75.9%
+111	Jake Morrison	4	Visual Effects Supervisor 	2774871824	3097952013	89.6%
+114	Brian Stultz	4	Art Director 	7968532026	11682233296	68.2%
+115	John Mahaffie	4	Second Unit Director 	4073878155	8481774172	48.0%
+116	Igor Meglic	4	Second Unit Camera 	3803616963	12762189816	29.8%
+117	Kelly Port	4	Visual Effects Supervisor 	7202466372	10998655611	65.5%
+118	Jeff Habberstad	4	Stunt Coordinator 	3234396591	9994276376	32.4%
+121	Randi Hiller	4	Casting Director 	3170754765	5176910355	61.2%
+122	Andy Gill	4	Stunt Coordinator-Second Unit 	3825940455	12274406314	31.2%
+123	Peyton Reed	3	Director 	1604401634	2162030416	74.2%
+124	Eric Pearson	3	Screenwriter 	1230233909	1698277761	72.4%
+125	Jon Watts	3	Director 	3920427058	3922952677	99.9%
+127	Amy Pascal	3	Producer 	3920427058	6369415927	61.6%
+128	Nigel Gostelow	3	Executive Producer 	1394923423	2289640821	60.9%
+129	Craig Kyle	3	Co-Producer 	1944411912	1944411912	100.0%
+132	Craig Wood	3	Editor 	2041702117	6938858957	29.4%
+133	Don Heck	3	Story Creator 	1586079067	1586079067	100.0%
+135	Leigh Folsom-Boyd	3	Editor 	3421906898	6085108661	56.2%
+136	Christophe Beck	3	Composer 	1604401634	11962195565	13.4%
+137	Trinh Tran	3	Executive Producer 	5994991095	5994991095	100.0%
+139	Peter J. Devlin	3	Sound Mixer 	3001213210	9432876133	31.8%
+140	Frank Eulner	3	Supervising Sound Editor 	2721428147	9087212019	29.9%
+141	Ernie Avila	3	Set Designer 	2335904030	8421498566	27.7%
+143	Russell Earl	3	ILM Visual Effects Supervisor 	5557493398	5815466143	95.6%
+145	Bria Kinter	3	Set Designer 	5712179472	10016991486	57.0%
+146	Diana Giorgiutti	3	Visual Effects Producer 	1612787583	1827868393	88.2%
+147	Jonathan Taylor	3	Second Unit Director 	1762608560	7743342043	22.8%
+148	Richard Mays	3	Set Designer 	2429149530	8397992718	28.9%
+150	Thomas Robinson Harper	3	Stunt Coordinator 	2106440673	4209970786	50.0%
+151	Richard Roberts	3	Set Decorator 	2628597899	13673902324	19.2%
+152	Taika Waititi	2	Director 	1611410859	1739650089	92.6%
+154	Joss Whedon	2	Director 	2910417190	3591334919	81.0%
+156	Ryan Coogler	2	Director 	2190535378	2975061445	73.6%
+158	Jeff Loveness	2	Screenwriter 	462398525	462398525	100.0%
+159	Joe Robert Cole	2	Screenwriter 	2190535378	2190535378	100.0%
+160	Zak Penn	2	Story Creator 	1780674070	3751831765	47.5%
+162	Destin Daniel Cretton	2	Director 	432224634	603869799	71.6%
+165	Christopher L. Yost	2	Screenwriter 	1495085294	1499648374	99.7%
+166	Scott Derrickson	2	Director 	1628568160	2401754591	67.8%
+170	Don Payne	2	Screenwriter 	1093929134	1444182681	75.7%
+172	Jac Schaeffer	2	Screenwriter 	1509327225	1606716793	93.9%
+174	Nicole Perlman	2	Screenwriter 	1900458489	2329581700	81.6%
+176	Paul Rudd	2	Screenwriter 	1142003109	1260663869	90.6%
+177	Eric Hauserman Carroll	2	Executive Producer 	2084332508	2084332508	100.0%
+178	Joe Simon	2	Based on the Marvel Comic by 	1885669987	1885669987	100.0%
+180	Brian Chapek	2	Co-Producer 	1140679212	1140679212	100.0%
+182	Rachel OâConnor	2	Executive Producer 	3042155767	3260994153	93.3%
+183	Hannah Beachler	2	Production Designer 	2190535378	2474823389	88.5%
+184	Kevin De La Noy	2	Executive Producer 	864130284	5538040108	15.6%
+186	Michael P. Shawver	2	Editor 	2190535378	2780969614	78.8%
+187	Matt Tolmach	2	Executive Producer 	3042155767	7836832004	38.8%
+188	Fred Raskin	2	Editor 	1639970358	3650855341	44.9%
+189	Lisa Lassek	2	Editor 	2910417190	3772464532	77.1%
+190	Peter S. Elliot	2	Editor 	1976320353	3889452076	50.8%
+191	Ruth E. Carter	2	Costume Designer 	2190535378	3066652909	71.4%
+192	JoAnn Perritano	2	Unit Production Manager 	2624450134	3572548359	73.5%
+194	Thomas M. Hammel	2	Executive Producer 	1982590300	5044150698	39.3%
+196	Sammy Sheldon	2	Costume Designer 	981256974	3234244607	30.3%
+197	Ramin Djawadi	2	Composer 	986903306	3814166579	25.9%
+198	Matthew Libatique	2	Cinematographer 	1206327936	4933286394	24.5%
+199	Ludwig GÃ¶ransson	2	Composer 	2190535378	4673819083	46.9%
+200	Danny Elfman	2	Additional Music 	2347541965	21086352562	11.1%
+202	Mayes C. Rubeo	2	Costume Designer 	1611410859	6013880608	26.8%
+203	Henry Jackman	2	Composer 	1866301475	11071038873	16.9%
+204	Ryan Meinerding	2	Head of Visual Development 	1828242760	1828242760	100.0%
+205	Stephane Ceretti	2	Visual Effects Supervisor 	1447225569	1648115220	87.8%
+206	Tyler Bates	2	Composer 	1639970358	5680514064	28.9%
+207	Debbie Berman	2	Editor 	2007847385	2007885739	100.0%
+208	Andy Nicholson	2	Supervising Art Director 	1500145870	4701218029	31.9%
+210	Louise Frogley	2	Costume Designer 	2093663563	3777832765	55.4%
+211	J. Michael Riva	2	Production Designer 	1206327936	5667727340	21.3%
+212	Ray Chan	2	Supervising Art Director 	1320945690	1419022145	93.1%
+214	Greg Hooper	2	Art Director 	2666999797	7746313538	34.4%
+215	David Klassen	2	Supervising Art Director 	1206327936	2035396204	59.3%
+216	Lee Gilmore	2	Sound Effects Editor 	1492232623	18093071950	8.2%
+217	Brian Tyler	2	Composer 	2610709251	12809086383	20.4%
+219	Jose Antonio Garcia	2	Sound Mixer 	2730492483	6981620719	39.1%
+220	Christopher Waegner	2	Visual Effects Supervisor 	2788319536	7020875805	39.7%
+222	Kyle Gardiner	2	Stunt Coordinator 	1611410859	6501647560	24.8%
+223	David Stephenson	2	Sound Mixer 	1015172292	2218667816	45.8%
+224	Dean Clegg	2	Art Director 	832968301	2398219869	34.7%
+226	Matthew Wood	2	Supervising Sound Editor 	1233280920	11403549165	10.8%
+227	John Bush	2	Set Decorator 	1046912950	2379062907	44.0%
+228	Guy Williams	2	Visual Effects Supervisor 	2084480235	5893201108	35.4%
+229	Beat Frutiger	2	Art Director 	1592673180	5130437119	31.0%
+230	Mike Stallion	2	Art Director 	1447225569	2151738479	67.3%
+231	Spiro Razatos	2	Second Unit Director 	1866301475	11678450395	16.0%
+233	Scott Edelstein	2	Visual Effects Supervisor 	4704780000	4704780000	100.0%
+234	Bonnie Wild	2	Re-recording Mixer 	1591974619	2471913332	64.4%
+235	Jordan Crockett	2	Art Director 	1447225569	1871697232	77.3%
+236	Graham Churchyard	2	Costume Supervisor 	2084332508	2516274647	82.8%
+238	Jason T. Clark	2	Art Director 	1805919268	1913270459	94.4%
+239	Jann Engel	2	Art Director 	2229502100	2637475640	84.5%
+241	Ben Snow	2	Visual Effects Supervisor 	1206327936	3561718964	33.9%
+242	Steve Dent	2	Stunt Coordinator 	1015172292	4082753889	24.9%
+243	Danielle Daly	2	Post-Production Supervisor 	1846509411	1846509411	100.0%
+244	Sheena Duggal	2	Visual Effects Supervisor 	1859994788	6635167862	28.0%
+245	Michael Gowen	2	Set Designer 	1129576094	5847281202	19.3%
+247	Eric Heffron	2	Associate Producer 	1206327936	6416637181	18.8%
+249	Terry Madden	2	First Assistant Director-Second Unit 	1765886755	12372469953	14.3%
+250	Randall Wilkins	2	Set Designer 	1592673180	12376049100	12.9%
+251	Jojo Villanueva	2	Music Coordinator 	850745406	6794598626	12.5%
+252	Tony Lamberti	2	Re-recording Mixer 	3042155767	9569045439	31.8%
+255	Jo Beckett	2	Script Supervisor 	1594506047	4663316023	34.2%
+256	Jeanette Surga	2	Music Editor 	2610709251	8212771633	31.8%
+257	Christopher T. Sadler	2	Second Assistant Director 	2488393906	4410517852	56.4%
+259	Jonathan Fawkner	2	Visual Effects Supervisor 	1639970358	1639970358	100.0%
+260	David Moreau	2	Set Designer 	1843977983	3814721158	48.3%
+261	Mike Stassi	2	Set Designer 	1843977983	3683791687	50.1%
+262	Julien Pougnier	2	Set Designer 	1843977983	2947976379	62.6%
+263	Camille Friend	2	Hair Department Head 	1843977983	4304618696	42.8%
+264	Jojo Warne	2	Location Manager 	1594506047	1594506047	100.0%

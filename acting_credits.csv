@@ -1,0 +1,124 @@
+	Person	Number_of_Movies	Role	Franchise_Box_Office	Career_Box_Office	Career/Franchise
+0	Stan Lee	22.0	Himself	21424744275	30602726452	70.0%
+1	Samuel L. Jackson	12.0	Nick Fury	12755818534	27774380735	45.9%
+2	Robert Downey, Jr.	11.0	Tony Stark/Iron Man	12850724774	15725830539	81.7%
+3	Chris Evans	9.0	Steve Rogers / Captain America	11513253757	13753699045	83.7%
+4	Chris Hemsworth	8.0	Thor	10458848692	12447713879	84.0%
+5	Scarlett Johansson	8.0	Natasha Romanoff/Black Widow	10620717694	15384676705	69.0%
+6	Jon Favreau	7.0	Happy Hogan	9136879021	13970645911	65.4%
+7	Paul Bettany	7.0	Vision	10741956946	13398876626	80.2%
+8	Gwyneth Paltrow	7.0	Pepper Potts	9658183219	11874162500	81.3%
+9	Don Cheadle	6.0	"Lt. Col. James ""Rhodey"" Rhodes"	9226856735	12414975822	74.3%
+10	Mark Ruffalo	6.0	Bruce Banner/Hulk	9036216111	11399776910	79.3%
+11	Benedict Cumberbatch	6.0	Stephen Strange	9232190692	15089746859	61.2%
+12	Tom Holland	6.0	Peter Parker/Spider-Man	9915418153	11187907065	88.6%
+13	Sebastian Stan	6.0	Bucky Barnes/Winter Soldier	7079962760	7991101927	88.6%
+14	Chris Pratt	6.0	Peter Quill/Star-Lord	7243989948	13475770771	53.8%
+15	Paul Rudd	6.0	Scott Lang / Ant-Man	7599392729	10762289101	70.6%
+16	Dave Bautista	6.0	Drax the Destroyer	7243989948	9056321598	80.0%
+17	Tom Hiddleston	6.0	Loki	8302603632	9396370227	88.4%
+18	Benedict Wong	6.0	Wong	8813932548	10878763167	81.0%
+19	Anthony Mackie	6.0	Sam Wilson/Falcon	8104709963	10154153907	79.8%
+20	Karen Gillan	6.0	Nebula	7243989948	9525094418	76.1%
+21	Bradley Cooper	6.0	Rocket	7243989948	12178491163	59.5%
+22	Clark Gregg	5.0	Agent Coulson	4300330859	5113709598	84.1%
+23	Jeremy Renner	5.0	Clint Barton/Hawkeye	8905408285	11955240242	74.5%
+24	Vin Diesel	5.0	Groot	4449258193	12583345351	35.4%
+25	Idris Elba	5.0	Heimdall	5388088645	12564005237	42.9%
+26	Zoe Saldana	5.0	Gamora	6483061867	14676067628	44.2%
+27	Elizabeth Olsen	5.0	Wanda Maximoff/Scarlet Witch	8342533060	8966133363	93.0%
+28	Cobie Smulders	5.0	Maria Hill	6805286355	7821224196	87.0%
+29	Pom Klementieff	5.0	Mantis	6473107553	6730334914	96.2%
+30	Marisa Tomei	5.0	May Parker	7867058399	10134261679	77.6%
+31	Hayley Atwell	5.0	Peggy Carter	5793878848	6648834181	87.1%
+32	Jacob Batalon	5.0	Ned Leeds	8763518567	8880530290	98.7%
+33	William Hurt	5.0	Thaddeus Ross	6640316085	8893992423	74.7%
+34	Evangeline Lilly	4.0	Hope van Dyne/The Wasp	4399133389	6728232383	65.4%
+35	Brie Larson	4.0	Carol Danvers/Vers/Captain Marvel	4356532483	5639179538	77.3%
+36	Danai Gurira	4.0	Okoye	7033626887	7127384537	98.7%
+37	Stellan SkarsgÃ¥rd	4.0	Erik Selvig	4004346324	9831111276	40.7%
+38	Natalie Portman	4.0	Jane Foster	4649588970	8995069686	51.7%
+39	Letitia Wright	4.0	Shuri	7033626887	8266630852	85.1%
+40	Chadwick Boseman	4.0	TâChalla/Black Panther	7331485415	7683754667	95.4%
+41	John Slattery	4.0	Howard Stark	5086646179	6336225298	80.3%
+42	Winston Duke	4.0	MâBaku	7033626887	7290617910	96.5%
+43	Maximiliano HernÃ¡ndez	4.0	Agent Jasper Sitwell	5473560473	5582040040	98.1%
+44	Zendaya	3.0	MJ	3920427058	5120765865	76.6%
+45	Anthony Hopkins	3.0	Odin	1944411912	6356808160	30.6%
+46	Michael Douglas	3.0	Dr. Hank Pym	1604401634	4380840395	36.6%
+47	David Dastmalchian	3.0	Kurt	1604401634	3553955967	45.1%
+48	Martin Freeman	3.0	Everett K. Ross	3342434964	6989174111	47.8%
+49	Ray Stevenson	3.0	Volstagg	1944411912	4025458469	48.3%
+50	Tony Revolori	3.0	Flash Thompson	3920427058	4391241099	89.3%
+51	Jaimie Alexander	3.0	Sif	1854857215	1904083828	97.4%
+52	Tadanobu Asano	3.0	Hogun	1944411912	3361744907	57.8%
+53	Sean Gunn	3.0	Kraglin Obfonteri	1639970358	1818878583	90.2%
+54	Tessa Thompson	3.0	Valkyrie	4406142614	5446722000	80.9%
+55	Florence Kasumba	3.0	Ayo	4238895132	6704320536	63.2%
+56	Frank Grillo	3.0	Brock Rumlow	4661033230	6297095937	74.0%
+57	Angourie Rice	3.0	Betty Brant	3920427058	4144550948	94.6%
+58	Taika Waititi	3.0	Korg	4406142614	5438767027	81.0%
+59	Rene Russo	3.0	Frigga	3888660889	6108808859	63.7%
+60	Angela Bassett	3.0	Ramonda	4985267133	8295772096	60.1%
+61	Kerry Condon	3.0	F.R.I.D.A.Y.	5994991095	6280022286	95.5%
+62	Pat Kiernan	3.0	Himself	3323550907	4807860260	69.1%
+63	Chiwetel Ejiofor	2.0	Baron Mordo	1628568160	6831202427	23.8%
+64	Lupita Nyong'o	2.0	Nakia	2190535378	8301701537	26.4%
+65	David Harbour	2.0		379751131	2768809721	13.7%
+66	Michael PeÃ±a	2.0	Luis	1142003109	5448488670	21.0%
+67	Tenoch Huerta	2.0		854041058	1839248215	46.4%
+68	Rachel McAdams	2.0	Dr. Christine Palmer	1628568160	4612812448	35.3%
+69	Lee Pace	2.0	Ronan the Accuser	1900458489	6147380770	30.9%
+70	Michelle Pfeiffer	2.0	Janet van Dyne	1085543185	4673119024	23.2%
+71	Michael Rooker	2.0	Yondu Udonta	1639970358	4043338636	40.6%
+72	Djimon Hounsou	2.0	Korath the Pursuer	1900458489	9134260557	20.8%
+73	Michael Stuhlbarg	2.0	Nicodemus West	1628568160	3713765962	43.9%
+74	Gemma Chan	2.0	Minn-Erva	1531307853	3566852980	42.9%
+75	Kat Dennings	2.0	Darcy Lewis	1093929134	1563628413	70.0%
+76	Bobby Cannavale	2.0	Paxton	1142003109	4706384916	24.3%
+77	Tim Roth	2.0	Emil Blonsky	697798493	1826494037	38.2%
+78	Judy Greer	2.0	Maggie	1142003109	6645180473	17.2%
+79	Leslie Bibb	2.0	Christine Everhart	1206327936	2063397045	58.5%
+80	T.I. Tip Harris	2.0	Dave	1142003109	1718152307	66.5%
+81	Ben Kingsley	2.0	The Mandarin	1647616906	5931767306	27.8%
+82	Toby Jones	2.0	Armin Zola	1084971665	7935363578	13.7%
+83	Elizabeth Debicki	2.0	Ayesha	869087963	2720151838	31.9%
+84	Emily VanCamp	2.0	Agent 13	1866301475	2028755988	92.0%
+85	Randall Park	2.0	Jimmy woo	1085543185	3528245057	30.8%
+86	Sylvester Stallone	2.0	Stakar Ogord	869087963	6490516300	13.4%
+87	J.B. Smoove	2.0	Mr. Dell	3042155767	4156415436	73.2%
+88	Zachary Levi	2.0	Fandral	1495085294	3198523931	46.7%
+89	Glenn Close	2.0	Nova Prime	1639970358	4310288356	38.0%
+90	Jenny Agutter	2.0	World Security Council	2229502100	2333017276	95.6%
+91	Andy Serkis	2.0	Ulysses Klaue	2731811299	15197401735	18.0%
+92	Isaach de BankolÃ©	2.0	Wakandan River Tribe Elder	2190535378	3168612960	69.1%
+93	Abby Ryder Fortson	2.0	Cassie Lang	1142003109	1237246380	92.3%
+94	Martin Starr	2.0	Mr. Harrington	2010378813	2509122297	80.1%
+95	Kenneth Choi	2.0	Jim Morita	1248841067	2988797737	41.8%
+96	Garry Shandling	2.0	Senator Stern	1335558278	3036119866	44.0%
+97	Jeff Goldblum	2.0	Grandmaster	1719570741	8460010592	20.3%
+98	Josh Brolin	2.0	Thanos	4843091509	8758035044	55.3%
+99	John Kani	2.0	TâChaka	2488393906	4181998208	59.5%
+100	Hannibal Buress	2.0	Coach Wilson	2788319536	5706440497	48.9%
+101	Jorge Lendeborg Jr	2.0	Jason Ionello	2788319536	3721699971	74.9%
+102	Laura Haddock	2.0	Meredith Quill	1639970358	2329607974	70.4%
+103	Michelle Yeoh	2.0	Jiang Nan	1301312597	4868197153	26.7%
+104	Benicio del Toro	2.0	The Collector	2819242149	5744267136	49.1%
+105	Zach Cherry	2.0	Klev	1310495925	1430452498	91.6%
+106	J.K. Simmons	2.0	J. Jonah Jameson	3042155767	11466348285	26.5%
+107	Tilda Swinton	2.0	The Ancient One	3471074929	6473370555	53.6%
+108	Gozie Agbo	2.0	Theo Broussard	1866301475	1866301475	100.0%
+109	Isabella Amara	2.0	Sally Avril	2926631045	3064872845	95.5%
+110	Robert Redford	2.0	Agent Alexander Pierce	3509133644	5753540147	61.0%
+111	Alexis Denisof	2.0	The Other	2285982606	2290311456	99.8%
+112	Zack Duhame	2.0	Engine Pirate	1233260338	1827824659	67.5%
+113	Callan Mulvey	2.0	Jack Rollins	3509133644	5339447038	65.7%
+114	Gregg Turkington	2.0	Dale	981256974	981484490	100.0%
+115	Brian Schaeffer	2.0	Strucker Mercenary	2016473368	2016473368	100.0%
+116	Tiffany Espensen	2.0	Cindy	2926631045	3175494910	92.2%
+117	Terry Notary	2.0	Groot	4843091509	7801594597	62.1%
+118	Jamie McShane	2.0	Agent Jackson	1964426829	2609162857	75.3%
+119	Stephen Blackehart	2.0	Brahl	1639970358	1852044677	88.5%
+120	Stephen McFeely	2.0	SHIELD Interrogator #2	2762761643	2762761643	100.0%
+121	Rob Zombie	2.0	Himself	1639970358	1657922569	98.9%
+122	Ross Marquand	2.0	Red Skull	4843091509	4843123357	100.0%
